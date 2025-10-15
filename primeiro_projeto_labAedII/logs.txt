@@ -1,501 +1,1001 @@
 Logs de Operacoes do Sistema
 =======================================
 Filme = Goodfellas
-Inicio = Sun Oct  5 18:50:42 2025
-Tempo de execucao = 2.000000 segundos
-Fim = Sun Oct  5 18:50:44 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Beetlejuice
-Inicio = Sun Oct  5 18:50:44 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:45 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Gaslight
-Inicio = Sun Oct  5 18:50:45 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:46 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = JFK
-Inicio = Sun Oct  5 18:50:46 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:47 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Godzilla
-Inicio = Sun Oct  5 18:50:47 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:48 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Avatar
-Inicio = Sun Oct  5 18:50:48 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:49 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = M
-Inicio = Sun Oct  5 18:50:49 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:50 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Speed
-Inicio = Sun Oct  5 18:50:50 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:51 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Thief
-Inicio = Sun Oct  5 18:50:51 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:52 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Gandhi
-Inicio = Sun Oct  5 18:50:52 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:53 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Dumbo
-Inicio = Sun Oct  5 18:50:53 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:54 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Logan
-Inicio = Sun Oct  5 18:50:54 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:55 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Drive
-Inicio = Sun Oct  5 18:50:55 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:56 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Looper
-Inicio = Sun Oct  5 18:50:56 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:57 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Parasite
-Inicio = Sun Oct  5 18:50:57 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:58 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Unforgiven
-Inicio = Sun Oct  5 18:50:58 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:50:59 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Mulan
-Inicio = Sun Oct  5 18:50:59 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:00 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Scarface
-Inicio = Sun Oct  5 18:51:00 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:01 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Spellbound
-Inicio = Sun Oct  5 18:51:01 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:02 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Network
-Inicio = Sun Oct  5 18:51:02 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:03 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Chinatown
-Inicio = Sun Oct  5 18:51:03 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:04 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Heat
-Inicio = Sun Oct  5 18:51:04 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:05 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Alien
-Inicio = Sun Oct  5 18:51:05 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:06 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Contempt
-Inicio = Sun Oct  5 18:51:06 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:07 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Nope
-Inicio = Sun Oct  5 18:51:07 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:08 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Inception
-Inicio = Sun Oct  5 18:51:08 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:09 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Philadelphia
-Inicio = Sun Oct  5 18:51:09 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:10 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Her
-Inicio = Sun Oct  5 18:51:10 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:11 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Batman
-Inicio = Sun Oct  5 18:51:11 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:12 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Predator
-Inicio = Sun Oct  5 18:51:12 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:13 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Annabelle
-Inicio = Sun Oct  5 18:51:13 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:14 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Memento
-Inicio = Sun Oct  5 18:51:14 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:15 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Rushmore
-Inicio = Sun Oct  5 18:51:15 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:16 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Fargo
-Inicio = Sun Oct  5 18:51:16 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:17 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Frozen
-Inicio = Sun Oct  5 18:51:17 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:18 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Dracula
-Inicio = Sun Oct  5 18:51:18 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:19 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Ikiru
-Inicio = Sun Oct  5 18:51:19 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:20 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Clueless
-Inicio = Sun Oct  5 18:51:20 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:21 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Up
-Inicio = Sun Oct  5 18:51:21 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:22 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Notorious
-Inicio = Sun Oct  5 18:51:22 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:23 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Joker
-Inicio = Sun Oct  5 18:51:23 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:24 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Klute
-Inicio = Sun Oct  5 18:51:24 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:25 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Lincoln
-Inicio = Sun Oct  5 18:51:25 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:26 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Ghostbusters
-Inicio = Sun Oct  5 18:51:26 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:27 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Moonlight
-Inicio = Sun Oct  5 18:51:27 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:28 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Brazil
-Inicio = Sun Oct  5 18:51:28 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:29 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Jaws
-Inicio = Sun Oct  5 18:51:29 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:30 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Patton
-Inicio = Sun Oct  5 18:51:30 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:31 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Casino
-Inicio = Sun Oct  5 18:51:31 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:32 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Amadeus
-Inicio = Sun Oct  5 18:51:32 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:33 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Hereditary
-Inicio = Sun Oct  5 18:51:33 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:34 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Bullitt
-Inicio = Sun Oct  5 18:51:34 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:35 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Boyhood
-Inicio = Sun Oct  5 18:51:35 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:36 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Carol
-Inicio = Sun Oct  5 18:51:36 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:37 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Vertigo
-Inicio = Sun Oct  5 18:51:37 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:38 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Eraserhead
-Inicio = Sun Oct  5 18:51:38 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:39 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Psycho
-Inicio = Sun Oct  5 18:51:39 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:40 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Sabrina
-Inicio = Sun Oct  5 18:51:40 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:41 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Babe
-Inicio = Sun Oct  5 18:51:41 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:42 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Ran
-Inicio = Sun Oct  5 18:51:42 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:43 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Yojimbo
-Inicio = Sun Oct  5 18:51:43 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:44 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Gilda
-Inicio = Sun Oct  5 18:51:44 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:45 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Shrek
-Inicio = Sun Oct  5 18:51:45 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:46 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Rocky
-Inicio = Sun Oct  5 18:51:46 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:47 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Stagecoach
-Inicio = Sun Oct  5 18:51:47 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:48 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Manhattan
-Inicio = Sun Oct  5 18:51:48 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:49 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Cube
-Inicio = Sun Oct  5 18:51:49 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:50 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Maleficent
-Inicio = Sun Oct  5 18:51:50 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:51 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Macbeth
-Inicio = Sun Oct  5 18:51:51 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:52 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Frida
-Inicio = Sun Oct  5 18:51:52 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:53 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Carrie
-Inicio = Sun Oct  5 18:51:53 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:54 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Deliverance
-Inicio = Sun Oct  5 18:51:54 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:55 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Bambi
-Inicio = Sun Oct  5 18:51:55 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:56 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Gladiator
-Inicio = Sun Oct  5 18:51:56 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:57 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Oldboy
-Inicio = Sun Oct  5 18:51:57 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:58 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Titanic
-Inicio = Sun Oct  5 18:51:58 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:51:59 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Matilda
-Inicio = Sun Oct  5 18:51:59 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:00 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Rebecca
-Inicio = Sun Oct  5 18:52:00 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:01 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Rashomon
-Inicio = Sun Oct  5 18:52:01 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:02 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Creed
-Inicio = Sun Oct  5 18:52:02 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:03 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Casablanca
-Inicio = Sun Oct  5 18:52:03 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:04 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Coraline
-Inicio = Sun Oct  5 18:52:04 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:05 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Nashville
-Inicio = Sun Oct  5 18:52:05 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:06 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Magnolia
-Inicio = Sun Oct  5 18:52:06 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:07 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Lucy
-Inicio = Sun Oct  5 18:52:07 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:08 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Slacker
-Inicio = Sun Oct  5 18:52:08 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:09 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Gravity
-Inicio = Sun Oct  5 18:52:09 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:10 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Elf
-Inicio = Sun Oct  5 18:52:10 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:11 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Cabaret
-Inicio = Sun Oct  5 18:52:11 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:12 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Thor
-Inicio = Sun Oct  5 18:52:12 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:13 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Laura
-Inicio = Sun Oct  5 18:52:13 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:14 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Braveheart
-Inicio = Sun Oct  5 18:52:14 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:15 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Se7en
-Inicio = Sun Oct  5 18:52:15 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:16 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Frankenstein
-Inicio = Sun Oct  5 18:52:16 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:17 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Juno
-Inicio = Sun Oct  5 18:52:17 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:18 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Sunrise
-Inicio = Sun Oct  5 18:52:18 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:19 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Moana
-Inicio = Sun Oct  5 18:52:19 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:20 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Freaks
-Inicio = Sun Oct  5 18:52:20 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:21 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Detour
-Inicio = Sun Oct  5 18:52:21 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:22 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
 =======================================
 Filme = Crash
-Inicio = Sun Oct  5 18:52:22 2025
-Tempo de execucao = 1.000000 segundos
-Fim = Sun Oct  5 18:52:23 2025
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Alien
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Amadeus
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Annabelle
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Avatar
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Babe
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Bambi
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Batman
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Beetlejuice
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Boyhood
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Braveheart
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Brazil
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Bullitt
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Cabaret
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Carol
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Carrie
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Casablanca
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Casino
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Chinatown
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Clueless
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Contempt
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Coraline
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Crash
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Creed
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Cube
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Deliverance
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Detour
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Dracula
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Drive
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Dumbo
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Elf
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Eraserhead
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Fargo
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Frankenstein
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Freaks
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Frida
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Frozen
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Gandhi
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Gaslight
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Ghostbusters
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Gilda
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Gladiator
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Godzilla
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Goodfellas
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Gravity
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Heat
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Her
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Hereditary
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Ikiru
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Inception
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = JFK
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Jaws
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Joker
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Juno
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Klute
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Laura
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Lincoln
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Logan
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Looper
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Lucy
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = M
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Macbeth
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Magnolia
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Maleficent
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Manhattan
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Matilda
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Memento
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Moana
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Moonlight
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Mulan
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Nashville
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Network
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Nope
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Notorious
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Oldboy
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Parasite
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Patton
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Philadelphia
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Predator
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Psycho
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Ran
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Rashomon
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Rebecca
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Rocky
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Rushmore
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Sabrina
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Scarface
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Se7en
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Shrek
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Slacker
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Speed
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Spellbound
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Stagecoach
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Sunrise
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Thief
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Thor
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Titanic
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Unforgiven
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Up
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Vertigo
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025
+=======================================
+Filme = Yojimbo
+Inicio = Tue Oct 14 21:54:44 2025
+Tempo de execucao = 0.000000 segundos
+Fim = Tue Oct 14 21:54:44 2025

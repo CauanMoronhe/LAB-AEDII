@@ -4,6 +4,10 @@
 #include <time.h>
 #include <windows.h>
 
+void troca(char **valor1, char **valor2);
+int particao(char **arr, int menorValor, int maiorValor);
+void quicksort(char **arr, int menorValor, int maiorValor);
+
 int main()
 {
     FILE *arquivo1, *arquivo2;
@@ -16,7 +20,8 @@ int main()
     struct tm *tempoInicial, *tempoFinal;
 
     printf("Realizando leitura de filmes em um arquivo...\n");
-    printf("=============================================\n\n");
+
+    printf("\n=============================================\n\n");
 
     filmes = malloc(capacidade * sizeof(char*));
     if (!filmes)
@@ -45,7 +50,7 @@ int main()
     {
         fgets(linha, sizeof(linha), arquivo1);
         linha[strcspn(linha, "\n")] = '\0';
-        printf("Filme lido no arquivo = %s\n", linha);
+        printf("Filme = %s\n", linha);
 
         if (contador >= capacidade)
         {
@@ -78,8 +83,6 @@ int main()
         tempoInicial = localtime(&inicio);
         fprintf(arquivo2, "Inicio = %s", asctime(tempoInicial));
 
-        Sleep(1000);
-
         fim = time(NULL);
         time(&fim);
         tempoFinal = localtime(&fim);
@@ -90,8 +93,83 @@ int main()
         fprintf(arquivo2, "Fim = %s", asctime(tempoFinal));
     }
     fclose(arquivo1);
-    fclose(arquivo2);
 
     printf("\n=============================================\n\n");
+
+    printf("filmes ordenados com quicksort...\n");
+
+    printf("\n=============================================\n\n");
+
+    quicksort(filmes, 0, contador -1);
+
+    for(int i = 0; i < contador; i++)
+    {
+        printf("%d: %s\n", i+1, filmes[i]);
+
+        fprintf(arquivo2, "=======================================\n");
+
+        fprintf(arquivo2, "Filme = %s\n", filmes[i]);
+
+        inicio = time(NULL);
+        time(&inicio);
+        tempoInicial = localtime(&inicio);
+        fprintf(arquivo2, "Inicio = %s", asctime(tempoInicial));
+
+        fim = time(NULL);
+        time(&fim);
+        tempoFinal = localtime(&fim);
+
+        diferenca = difftime(fim, inicio);
+
+        fprintf(arquivo2, "Tempo de execucao = %.6f segundos\n", diferenca);
+        fprintf(arquivo2, "Fim = %s", asctime(tempoFinal));
+    }
+
+    fclose(arquivo2);
+
+    for(int i = 0; i < contador; i++)
+    {
+        free(filmes[i]);
+    }
+    free(filmes);
+
+    printf("\n=============================================\n\n");
+
     printf("Quantidade de filmes lidos do arquivo = %d\n", contador);
+
+    return 0;
+}
+
+void swap(char **valor1, char **valor2)
+{
+    char *aux = *valor1;
+    *valor1 = *valor2;
+    *valor2 = aux;
+}
+
+int particao(char **arr, int menorValor, int maiorValor)
+{
+    char *pivo = arr[maiorValor];
+    int i = (menorValor - 1);
+
+    for (int j = menorValor; j <= maiorValor - 1; j++)
+    {
+        if (strcmp(arr[j], pivo) <= 0)
+        {
+            i++;
+            swap(&arr[i], &arr[j]);
+        }
+    }
+    swap(&arr[i + 1], &arr[maiorValor]);
+    return (i + 1);
+}
+
+void quicksort(char **arr, int menor, int maior)
+{
+    if (menor < maior)
+    {
+        int pi = particao(arr, menor, maior);
+        quicksort(arr, menor, pi - 1);
+        quicksort(arr, pi + 1, maior);
+    }
 }
